@@ -1,0 +1,9 @@
+Detector	Raw Mean(ppm)	Err(ppm)	Reg Mean(ppm)	Err(ppm)
+asym_atr1	77.56	41.34	80.66	41.31
+asym_atl1	46.54	38.96	42.87	38.93
+asym_atr2	-16.74	34.70	-5.05	34.51
+asym_atl2	88.77	34.77	81.85	34.57
+asym_usl	4.30	2.65	0.39	0.63
+asym_usr	-6.52	2.36	0.57	0.60
+asym_dsl	4.93	2.79	0.69	0.65
+asym_dsr	-5.87	2.22	0.48	0.62
